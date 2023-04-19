@@ -3,7 +3,6 @@ from pathlib import Path
 from django.db import models
 from django.core.management.base import BaseCommand, CommandError
 from openpyxl import load_workbook
-
 from store.models import Product
 
 class Command(BaseCommand):
@@ -14,7 +13,7 @@ class Command(BaseCommand):
         print('table dropped')
         
         base_dir = Path(__file__).resolve().parent.parent.parent.parent
-        book_path = os.path.join(base_dir, 'store/us_data/US Superstore data.xls')
+        book_path = os.path.join(base_dir, 'store/us_data/US Superstore data.xlsx')
         book = load_workbook(book_path)
         sheet = book['US Superstore data']
         print(sheet.title)
