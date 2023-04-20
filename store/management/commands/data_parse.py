@@ -13,9 +13,9 @@ class Command(BaseCommand):
         print('table dropped')
         
         base_dir = Path(__file__).resolve().parent.parent.parent.parent
-        book_path = os.path.join(base_dir, 'store/us_data/US Superstore data.xlsx')
+        book_path = os.path.join(base_dir, 'store/us_data/US_Superstore_data.xlsx')
         book = load_workbook(book_path)
-        sheet = book['US Superstore data']
+        sheet = book['US_Superstore_data']
         print(sheet.title)
         max_row_num = sheet.max_row
         max_col_num = sheet.max_column
