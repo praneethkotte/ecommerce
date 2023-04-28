@@ -82,7 +82,7 @@ class Command(BaseCommand):
         self.stdout.write(self.style.SUCCESS(str(max_col_num)))
 
         for i in range(2, max_row_num+1): # for each row, minus the first (headers) and last (total count)
-            product_name = sheet.cell(row=i, column=14).value
+            product_name = sheet.cell(row=i, column=16).value
             if not product_name:
                 continue
             sales = sheet.cell(row=i, column=18).value
