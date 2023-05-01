@@ -99,7 +99,7 @@ class OrderModelTestCase(TestCase):
 
 
 class OrderItemTestCase(TestCase):
-
+    
     def setUp(self):
         self.product = Product.objects.create(name='Product A', price=10.00)
         self.order = Order.objects.create(order_id = 123)
@@ -117,3 +117,6 @@ class OrderItemTestCase(TestCase):
         self.assertEqual(total, 20.00)
 
     
+# class ShippingAddressTestCase(TestCase):
+
+

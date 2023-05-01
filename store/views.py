@@ -5,6 +5,8 @@ import datetime
 from .models import * 
 from .utils import cookieCart, cartData, guestOrder
 
+
+
 def store(request):
 	data = cartData(request)
 
@@ -16,6 +18,15 @@ def store(request):
 	context = {'products':products, 'cartItems':cartItems}
 	return render(request, 'store/store.html', context)
 
+
+def story():
+    fake = Faker()
+    description = (
+        f"In a(n) {fake.description()}  " 
+        f"decripotion of the product  {fake.description()} "
+    )
+
+    return description
 
 def cart(request):
 	data = cartData(request)
