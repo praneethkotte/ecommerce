@@ -187,9 +187,10 @@ Now create a blank main.html file and put this code into it. This is almost the 
 	<script type="text/javascript" src="{% static 'js/cart.js' %}"></script>
 </body>
 </html>
- and similarly repeat the same steps for cart, checkout and store.html
- store.html 
- {% extends 'store/main.html' %}
+and similarly repeat the same steps for cart, checkout and store.html
+store.html 
+
+{% extends 'store/main.html' %}
 {% load static %}
 {% block content %}
 	<div class="row">
