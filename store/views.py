@@ -24,9 +24,10 @@ def store(request):
 
 def search (request):
 	query= request.GET.get('query','')
-
+    # products = Product.objects.filter(title__icontains=query)
 	return render(request, 'store/search.html',{
-		'query': query
+		'query': query,
+        # 'products': products
 	})
 
 
