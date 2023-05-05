@@ -1,0 +1,28 @@
+b76ba3a	PRANEETH KOTTE	Fri May 5 21:28:41 2023	test case update
+c7ed0d6	PRANEETH KOTTE	Fri May 5 21:19:58 2023	modify
+7aaf620	PRANEETH KOTTE	Fri May 5 21:16:41 2023	modify
+cbbb542	PRANEETH KOTTE	Fri May 5 21:14:28 2023	settings modify
+482d618	PRANEETH KOTTE	Fri May 5 20:41:23 2023	changed settings
+79bb2e7	PRANEETH KOTTE	Fri May 5 20:10:47 2023	added changes to settings
+a096359	PRANEETH KOTTE	Fri May 5 20:05:44 2023	updated req
+66f7181	PRANEETH KOTTE	Fri May 5 20:03:57 2023	added req txt file
+866f36c	PRANEETH KOTTE	Fri May 5 20:02:26 2023	added req txt file
+18ebbf8	PRANEETH KOTTE	Fri May 5 18:54:48 2023	search
+6528068	PRANEETH KOTTE	Fri May 5 18:31:54 2023	 changes
+ba47ff5	PRANEETH KOTTE	Thu May 4 10:00:24 2023	 404 and 500 error code added
+3c901fe	PRANEETH KOTTE	Thu May 4 09:43:06 2023	images added
+c510dca	PRANEETH KOTTE	Wed May 3 10:13:33 2023	 changes
+fb818b6	PRANEETH KOTTE	Mon May 1 09:52:49 2023	modification to readme file
+cb22051	PRANEETH KOTTE	Mon May 1 09:50:38 2023	readme file
+71a94a0	PRANEETH KOTTE	Fri Apr 28 17:02:04 2023	 product name update
+ddd511c	PRANEETH KOTTE	Fri Apr 28 15:48:35 2023	parsed the  data tables
+ee02733	PRANEETH KOTTE	Mon Apr 24 12:54:59 2023	test cases
+9c9cb17	PRANEETH KOTTE	Thu Apr 20 12:02:38 2023	changes
+7bbad6c	PRANEETH KOTTE	Wed Apr 19 11:43:18 2023	search bar added
+7db68b9	PRANEETH KOTTE	Wed Apr 19 10:29:04 2023	changes with data
+7473cd2	PRANEETH KOTTE	Mon Apr 17 21:05:46 2023	payment and checkout page
+eadbd02	PRANEETH KOTTE	Sun Apr 16 18:54:52 2023	shipping and checkout page updates
+4198a05	PRANEETH KOTTE	Sat Apr 15 19:40:59 2023	models
+33ba3a0	PRANEETH KOTTE	Sat Apr 15 13:49:47 2023	css and bootstrap
+aed3f60	praneethkotte	Sat Apr 15 12:17:01 2023	Create README.md
+d5feb42	praneethkotte	Sat Apr 15 12:16:41 2023	Initial commit
