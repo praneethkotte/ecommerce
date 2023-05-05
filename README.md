@@ -518,6 +518,12 @@ source .venv/bin/activate
 python3 manage.py runserver 0.0.0.0:8000
 Clicking the ‘Box URL’ tab at the top of the screen should launch the homepage of the application in a new browser tab.
 
+
+Render Application URL:  https://superstoreus.onrender.com
+Git Hub Repository Link:  SSH KEY: git@github.com:praneethkotte/ecommerce.git 
+ Git Hub Repository Link:  HTTPS KEY: https://github.com/praneethkotte/ecommerce.git 
+
+
 References
 1) https://www.google.com/search?q=labels+images&rlz=1C1GCEB_enGB1056GB1056&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjyxcDrsNv-AhV7Q0EAHQvhACIQ_AUoAXoECAEQAw&biw=1920&bih=969#imgrc=KkF6jeysyEN1IM
 2) https://www.google.com/search?q=binders+images&tbm=isch&ved=2ahUKEwiVldzssNv-AhUStUwKHaG3BfcQ2-cCegQIABAA&oq=binders+images&gs_lcp=CgNpbWcQAzIFCAAQgAQ6BwgAEIoFEEM6BggAEAcQHjoKCAAQigUQsQMQQzoICAAQgAQQsQM6CAgAEAUQBxAeOgYIABAFEB5Q1wpYySxguTJoAHAAeACAAUuIAaIEkgEBOZgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=EH9TZJXNFJLqsgKh75a4Dw&bih=969&biw=1920&rlz=1C1GCEB_enGB1056GB1056#imgrc=hfJdbNUFU7pfIM
