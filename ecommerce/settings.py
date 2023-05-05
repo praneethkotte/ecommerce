@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-nk4u@3q+kd#o++-u!4fz1+*q9+)k$leci=0mcuaqt=amgt4bnk
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['solarpodium-exportvelvet-8000.codio-box.uk','superstoreus.onrender.com']
+ALLOWED_HOSTS = ['solarpodium-exportvelvet-8000.codio-box.uk','superstoreus.onrender.com', 'superstore-mkk6.onrender.com']
 CSRF_TRUSTED_ORIGINS = ['https://solarpodium-exportvelvet-8000.codio-box.uk',]
 
 # Application definition

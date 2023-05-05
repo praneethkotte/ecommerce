@@ -9,7 +9,7 @@
         {% for product in products %}
             <div class="card text-bg-dark mb-3" style="width: 18rem;">
                 {% if product.image %}
-                        <img src="{{ product.image.url }}" class="card-img-top" alt=" {{product.title}} image">
+                        <img src="{{product.imageURL}}" class="card-img-top" alt=" {{product.title}} image">
                 {% endif %}
 
                 <div class="card-body">
